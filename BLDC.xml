@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Burak\Desktop\BLDC\BLDC.kicad_sch</source>
+    <date>10.01.2024 02:35:32</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BLDC.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d89d2d2-4001-4196-a052-1b8371b62484</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b10c573-e4ad-4d2c-8bea-4a71a4e96b9d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81b08d9f-88ec-4977-a452-223a64aa76ae</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc980525-e6fa-4671-ad1e-dd23967f77c2</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c02c2b5-c76f-4ba7-b710-a5c191d4f20f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94b2254e-2ee5-48af-a8a2-6c741bcf5f3a</tstamps>
+    </comp>
+    <comp ref="CR1">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f3c6ba-8b3a-4933-a71b-1b4105f6ce4b</tstamps>
+    </comp>
+    <comp ref="CR2">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecc879a0-5f21-4b74-ad13-4fc90413d9c1</tstamps>
+    </comp>
+    <comp ref="CR3">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00f98d9d-b23b-4ed9-be81-cdb8613e21d7</tstamps>
+    </comp>
+    <comp ref="CR4">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91176803-67ee-4166-847a-824f04dcb815</tstamps>
+    </comp>
+    <comp ref="CR5">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff0e0d39-88f6-428f-8c1b-bc1399783397</tstamps>
+    </comp>
+    <comp ref="CR6">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ece44495-4bf8-46f9-92e9-937bf565de98</tstamps>
+    </comp>
+    <comp ref="CR7">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>739e56b7-56f9-4f8b-83d0-19d00ee7e0fb</tstamps>
+    </comp>
+    <comp ref="CR8">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98197deb-e240-40fa-a4bd-79682d31d322</tstamps>
+    </comp>
+    <comp ref="CR9">
+      <value>UF4007-E3/54</value>
+      <footprint>UF4007:DO-204AL</footprint>
+      <datasheet>UF4007-E3/54</datasheet>
+      <libsource lib="" part="UF4007-E3_54_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="UF4007-E3/54"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8610344a-1965-4abc-8bf2-71d2f6eb6f28</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>GREEN</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ee2d840-be93-4364-a9e7-39b0e15a5bf5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e791d305-b2e6-4e05-80b3-2651525d8610</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aad3feaa-9799-4104-aae9-c3bcfdbb48e1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b680bdb8-cbea-4fca-9302-e6fdececd15f</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x06_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x06_Pin" description="Generic connector, single row, 01x06, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x06, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff0111c9-8af9-446a-9f61-550b46dfd5a2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f33ab15d-f9f8-4c8f-88bb-c6238fc1505f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2258348-bb93-42bf-9136-77033309c6cb</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdfa6694-66f0-49ce-b7d7-7d0e389df7bd</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81ca1ec5-4568-4280-924c-47d1d3d7d3ee</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c65367e8-4fb7-4b66-993b-64686ebd30cd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10ff123f-a12c-481c-ac8f-5a622282458b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f264a35e-54c1-4bdc-a70b-dcb13550baea</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b4b096b-fd57-4803-bbcc-d17d79e3e2b4</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d155c07-3a65-49ac-897d-ddbabb2f4ebc</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>15k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9251a723-8d5f-4965-a971-2ee225ada6ac</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>15k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecc8ed7f-708b-4d70-b72a-d3d15df544e1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>470R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b012c0-2d08-4fa9-a7bf-0e20e4737c05</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>15k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fb2e465-1a6a-41c6-8520-fd4f8945a155</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72e9261c-7974-41aa-bf77-feeb873dcbeb</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2372c59c-bc3b-491d-90c8-7bcbb3d84385</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>39k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c20d45f2-dd54-45b0-9dea-e20949749a5e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IR2104</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_LongPads</footprint>
+      <datasheet>https://www.infineon.com/dgdl/ir2104.pdf?fileId=5546d462533600a4015355c7c1c31671</datasheet>
+      <libsource lib="Driver_FET" part="IR2104" description="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="ki_keywords" value="Gate Driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4b331e-bd12-4d5d-9d45-baa2eac669e3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15656876-c277-419d-8960-c206b050cc4e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1c44627-45d9-466d-afa0-f83a49c49ead</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68d5472-50fe-467c-8aff-d92a84b9ca1b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6023f9b6-0eb8-4555-a9ae-ca9ddd62ba9c</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>IR2104</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_LongPads</footprint>
+      <datasheet>https://www.infineon.com/dgdl/ir2104.pdf?fileId=5546d462533600a4015355c7c1c31671</datasheet>
+      <libsource lib="Driver_FET" part="IR2104" description="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="ki_keywords" value="Gate Driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54ce7a68-8e5a-4c0f-8506-1e7f3183fc2b</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1be065b-2fee-4518-865c-81f9e04834ba</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>STP75NF75</value>
+      <footprint>STP75NF75:TO-220_STM</footprint>
+      <datasheet>STP75NF75</datasheet>
+      <libsource lib="" part="STP75NF75_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_keywords" value="STP75NF75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06db8ad9-96c2-4fb4-91c7-168da33055de</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>IR2104</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_LongPads</footprint>
+      <datasheet>https://www.infineon.com/dgdl/ir2104.pdf?fileId=5546d462533600a4015355c7c1c31671</datasheet>
+      <libsource lib="Driver_FET" part="IR2104" description="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BLDC.kicad_sch"/>
+      <property name="ki_description" value="Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8"/>
+      <property name="ki_keywords" value="Gate Driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5d3ecce-c666-43c7-bdc5-68b8638e3ba0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="STP75NF75_1">
+      <docs>STP75NF75</docs>
+      <footprints>
+        <fp>TO-220_STM</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">STP75NF75</field>
+        <field name="Footprint">TO-220_STM</field>
+        <field name="Datasheet">STP75NF75</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="UF4007-E3_54_2">
+      <docs>UF4007-E3/54</docs>
+      <footprints>
+        <fp>DO-204AL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR3</field>
+        <field name="Value">UF4007-E3/54</field>
+        <field name="Footprint">DO-204AL</field>
+        <field name="Datasheet">UF4007-E3/54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="UF4007-E3_54_3">
+      <docs>UF4007-E3/54</docs>
+      <footprints>
+        <fp>DO-204AL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR10</field>
+        <field name="Value">UF4007-E3/54</field>
+        <field name="Footprint">DO-204AL</field>
+        <field name="Datasheet">UF4007-E3/54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="tri_state"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="UF4007-E3_54_4">
+      <docs>UF4007-E3/54</docs>
+      <footprints>
+        <fp>DO-204AL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR10</field>
+        <field name="Value">UF4007-E3/54</field>
+        <field name="Footprint">DO-204AL</field>
+        <field name="Datasheet">UF4007-E3/54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="tri_state"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Pin">
+      <description>Generic connector, single row, 01x06, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="IR2104">
+      <description>Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8</description>
+      <docs>https://www.infineon.com/dgdl/ir2104.pdf?fileId=5546d462533600a4015355c7c1c31671</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IR2104</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/ir2104.pdf?fileId=5546d462533600a4015355c7c1c31671</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="IN" type="input"/>
+        <pin num="3" name="~{SD}" type="input"/>
+        <pin num="4" name="COM" type="power_in"/>
+        <pin num="5" name="LO" type="output"/>
+        <pin num="6" name="VS" type="passive"/>
+        <pin num="7" name="HO" type="output"/>
+        <pin num="8" name="VB" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Driver_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="CR1" pin="2" pintype="passive"/>
+      <node ref="CR2" pin="2" pintype="passive"/>
+      <node ref="CR7" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U15" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="COM" pintype="power_in"/>
+      <node ref="U15" pin="4" pinfunction="COM" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="COM" pintype="power_in"/>
+      <node ref="U8" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="3" name="MOTOR_U">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U15" pin="6" pinfunction="VS" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="MOTOR_V">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VS" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="MOTOR_W">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="VS" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(CR3-Pad2)">
+      <node ref="CR3" pin="2" pintype="tri_state"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(CR4-Pad2)">
+      <node ref="CR4" pin="2" pintype="tri_state"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(CR5-Pad2)">
+      <node ref="CR5" pin="2" pintype="tri_state"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(CR6-Pad2)">
+      <node ref="CR6" pin="2" pintype="tri_state"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(CR8-Pad2)">
+      <node ref="CR8" pin="2" pintype="tri_state"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(CR9-Pad2)">
+      <node ref="CR9" pin="2" pintype="tri_state"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(U1-HO)">
+      <node ref="CR6" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="HO" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(U1-LO)">
+      <node ref="CR3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="LO" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(U1-VB)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="CR2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VB" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(U6-HO)">
+      <node ref="CR9" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="HO" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(U6-LO)">
+      <node ref="CR8" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="LO" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(U6-VB)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="CR7" pin="1" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="VB" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U15-HO)">
+      <node ref="CR5" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U15" pin="7" pinfunction="HO" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U15-LO)">
+      <node ref="CR4" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U15" pin="5" pinfunction="LO" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U15-VB)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="CR1" pin="1" pintype="passive"/>
+      <node ref="U15" pin="8" pinfunction="VB" pintype="passive"/>
+    </net>
+    <net code="22" name="PHV_U">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="PHV_V">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="PHV_W">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="PWM1">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="26" name="PWM2">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U15" pin="3" pinfunction="~{SD}" pintype="input"/>
+    </net>
+    <net code="27" name="PWM3">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="28" name="PWM4">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="~{SD}" pintype="input"/>
+    </net>
+    <net code="29" name="PWM5">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="30" name="PWM6">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="~{SD}" pintype="input"/>
+    </net>
+    <net code="31" name="Virtual_N">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
